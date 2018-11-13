@@ -15,6 +15,5 @@ require 'pry'
   # }
 
 def remove_strawberry(contacts)
-  contacts
-    
+  contacts => "Freddy Mercury"
 end
